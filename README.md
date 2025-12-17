@@ -40,7 +40,6 @@ positive and negative customer feedback and to compare model performance.
 
 - data/` → dataset
 
-- visuals/ → plots and figures
 
 ## Tools
 - R, caret, randomForest, rpart, glmnet, factoextra, ggplot2
